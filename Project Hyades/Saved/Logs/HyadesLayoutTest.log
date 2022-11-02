@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< HEAD
 <<<<<<< refs/remotes/Brennar/main
@@ -23,6 +24,9 @@
 =======
 ﻿Log file open, 10/25/22 16:54:28
 >>>>>>> Keypad Import
+=======
+﻿Log file open, 10/25/22 16:54:28
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -33,6 +37,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: HyadesLayoutTest
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< refs/remotes/Brennar/main
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
@@ -59,10 +64,15 @@ LogStats: Stats thread started at 2.976791
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.784785
 >>>>>>> Keypad Import
+=======
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.784785
+>>>>>>> main
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< HEAD
 =======
@@ -127,15 +137,29 @@ LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin DatasmithContent
 =======
 >>>>>>> main
+=======
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+>>>>>>> main
 LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin OodleNetwork
-LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CurveEditorTools
 >>>>>>> Renamed Assets + Added Test Tube
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin GameplayTagsEditor
 <<<<<<< refs/remotes/Brennar/main
 =======
@@ -313,6 +337,22 @@ LogPluginManager: Mounting plugin GeometryProcessing
 >>>>>>> main
 =======
 >>>>>>> Keypad Import
+=======
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+>>>>>>> main
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin SubversionSourceControl
@@ -321,6 +361,7 @@ LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin Niagara
@@ -362,12 +403,16 @@ LogPluginManager: Mounting plugin LuminPlatformFeatures
 =======
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 >>>>>>> Keypad Import
+=======
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+>>>>>>> main
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 LogPluginManager: Mounting plugin MLSDK
 <<<<<<< HEAD
@@ -398,11 +443,18 @@ LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin ActorSequence
 >>>>>>> Keypad Import
+=======
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin ActorSequence
+>>>>>>> main
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin UdpMessaging
@@ -445,14 +497,40 @@ LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin AudioCapture
 =======
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 <<<<<<< HEAD
@@ -514,10 +592,18 @@ LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
 >>>>>>> Keypad Import
+=======
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+>>>>>>> main
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin CableComponent
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< HEAD
 <<<<<<< refs/remotes/Brennar/main
@@ -574,6 +660,14 @@ LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 >>>>>>> Keypad Import
+=======
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+>>>>>>> main
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
@@ -582,6 +676,7 @@ LogPluginManager: Mounting plugin OpenXREyeTracker
 LogPluginManager: Mounting plugin OpenXR
 LogPluginManager: Mounting plugin OpenXRHandTracking
 LogPluginManager: Mounting plugin PostSplashScreen
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 <<<<<<< HEAD
@@ -662,6 +757,10 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin PhysXVehicles
 >>>>>>> Keypad Import
 LogPluginManager: Mounting plugin PropertyAccessEditor
+=======
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+>>>>>>> main
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
@@ -669,6 +768,7 @@ LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
@@ -689,6 +789,8 @@ LogPluginManager: Mounting plugin ScreenshotTools
 >>>>>>> main
 =======
 >>>>>>> Keypad Import
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
@@ -696,6 +798,7 @@ LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< HEAD
 <<<<<<< refs/remotes/Brennar/main
@@ -711,6 +814,8 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 =======
 >>>>>>> Keypad Import
+=======
+>>>>>>> main
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 >>>>>>> Renamed Assets + Added Test Tube
 <<<<<<< HEAD
@@ -750,11 +855,15 @@ LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
 LogInit: Command Line: 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 LogInit: Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
 =======
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
 >>>>>>> Keypad Import
+=======
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+>>>>>>> main
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 29
@@ -806,6 +915,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Amanda/main
 <<<<<<< HEAD
 <<<<<<< refs/remotes/Brennar/main
@@ -8159,6 +8269,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> main
 >>>>>>> main
 =======
+=======
+>>>>>>> main
 [2022.10.25-20.54.30:143][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.10.25-20.54.30:143][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.10.25-20.54.30:143][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Win10User/OneDrive - Ferris State University/Fall_2022/Capstone/Repo/Project-Hyades-Repo/Project Hyades/Saved/Config/Windows/Engine.ini]
@@ -9543,4 +9655,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.25-21.03.38:323][924]LogD3D11RHI: CleanupD3DDevice
 [2022.10.25-21.03.38:374][924]LogExit: Exiting.
 [2022.10.25-21.03.38:407][924]Log file closed, 10/25/22 17:03:38
+<<<<<<< HEAD
 >>>>>>> Keypad Import
+=======
+>>>>>>> main
