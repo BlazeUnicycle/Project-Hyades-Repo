@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 ﻿Log file open, 11/01/22 23:26:07
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 <<<<<<< refs/remotes/Brennar/main
 ﻿Log file open, 10/29/22 16:57:23
@@ -10,7 +13,10 @@
 =======
 ﻿Log file open, 10/25/22 13:28:35
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -21,10 +27,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: HyadesLayoutTest
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.598303
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 <<<<<<< refs/remotes/Brennar/main
@@ -36,25 +45,37 @@ LogStats: Stats thread started at 0.262431
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 2.976791
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 LogPluginManager: Mounting plugin AISupport
 =======
 <<<<<<< refs/remotes/Brennar/main
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LiveLink
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin OodleData
@@ -126,9 +147,52 @@ LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
+=======
+=======
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DatasmithContent
+=======
+=======
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+<<<<<<< refs/remotes/Brennar/main
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+<<<<<<< refs/remotes/Brennar/main
+=======
+=======
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+>>>>>>> main
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin AnimationSharing
@@ -141,7 +205,10 @@ LogPluginManager: Mounting plugin FacialAnimation
 =======
 LogPluginManager: Mounting plugin AnimationSharing
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
@@ -158,10 +225,13 @@ LogPluginManager: Mounting plugin PluginBrowser
 >>>>>>> Renamed Assets + Added Test Tube
 >>>>>>> Renamed Assets + Added Test Tube
 LogPluginManager: Mounting plugin AlembicImporter
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin Niagara
@@ -199,6 +269,19 @@ LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
+<<<<<<< HEAD
+=======
+<<<<<<< refs/remotes/Brennar/main
+<<<<<<< refs/remotes/Brennar/main
+=======
+=======
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+>>>>>>> main
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin ChaosSolverPlugin
@@ -218,15 +301,21 @@ LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PlasticSourceControl
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin GeometryCache
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin OpenImageDenoise
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
@@ -263,12 +352,16 @@ LogPluginManager: Mounting plugin MotoSynth
 >>>>>>> Renamed Assets + Added Test Tube
 LogPluginManager: Mounting plugin OpenImageDenoise
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin Niagara
@@ -284,6 +377,9 @@ LogPluginManager: Mounting plugin AndroidMedia
 <<<<<<< refs/remotes/Ari/main
 >>>>>>> Rebase
 =======
+=======
+<<<<<<< refs/remotes/Brennar/main
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 =======
 LogPluginManager: Mounting plugin SkeletalReduction
@@ -299,7 +395,10 @@ LogPluginManager: Mounting plugin MLSDK
 >>>>>>> Renamed Assets + Added Test Tube
 LogPluginManager: Mounting plugin AndroidMedia
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 <<<<<<< refs/remotes/Brennar/main
@@ -325,10 +424,13 @@ LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 =======
+=======
+>>>>>>> main
 =======
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin LuminPlatformFeatures
@@ -349,6 +451,7 @@ LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin MediaPlayerEditor
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
@@ -369,6 +472,28 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
+=======
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+<<<<<<< refs/remotes/Brennar/main
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+=======
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+=======
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+>>>>>>> main
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 >>>>>>> Renamed Assets + Added Test Tube
@@ -379,12 +504,15 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 =======
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin EditableMesh
@@ -393,7 +521,16 @@ LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin ScreenshotTools
 =======
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+<<<<<<< refs/remotes/Brennar/main
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+=======
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 <<<<<<< refs/remotes/Ari/main
 LogPluginManager: Mounting plugin EditableMesh
@@ -401,12 +538,15 @@ LogPluginManager: Mounting plugin EditableMesh
 <<<<<<< refs/remotes/Brennar/main
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+<<<<<<< HEAD
 =======
 =======
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 >>>>>>> Rebase
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+=======
+>>>>>>> main
 >>>>>>> Renamed Assets + Added Test Tube
 >>>>>>> Renamed Assets + Added Test Tube
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -496,6 +636,7 @@ LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 =======
@@ -505,6 +646,73 @@ LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+=======
+=======
+=======
+<<<<<<< refs/remotes/Brennar/main
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< refs/remotes/Brennar/main
+=======
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+=======
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+<<<<<<< refs/remotes/Brennar/main
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+=======
+>>>>>>> Renamed Assets + Added Test Tube
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 =======
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -597,6 +805,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Ari/main
 [2022.11.02-03.26.08:712][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.11.02-03.26.08:712][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1956,6 +2165,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.02-03.30.50:083][565]LogExit: Exiting.
 [2022.11.02-03.30.50:103][565]Log file closed, 11/01/22 23:30:50
 =======
+=======
+>>>>>>> main
 <<<<<<< refs/remotes/Brennar/main
 <<<<<<< refs/remotes/Brennar/main
 [2022.10.29-20.57.26:972][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -7636,4 +7847,7 @@ Make sure 'FirstPersonExampleMap_C' has been compiled for  Set CurrentScene
 [2022.10.25-19.02.26:490][ 34]LogExit: Exiting.
 [2022.10.25-19.02.26:529][ 34]Log file closed, 10/25/22 15:02:26
 >>>>>>> Renamed Assets + Added Test Tube
+<<<<<<< HEAD
 >>>>>>> Rebase
+=======
+>>>>>>> main
