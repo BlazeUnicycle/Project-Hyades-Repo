@@ -1490,3 +1490,245 @@ SkySphereBlueprint
 [2022.11.28-20.22.45:424][722]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.28-20.22.45:424][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.11.28-20.22.45:425][722]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.28-20.23.34:012][985]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.28-20.23.47:915][426]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.11.28-20.23.57:868][258]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2022.11.28-20.24.12:649][336]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2022.11.28-20.24.14:449][458]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.11.28-20.24.17:817][731]MapCheck: New page: Map Check
+[2022.11.28-20.24.17:826][731]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.28-20.24.17:826][731]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.28-20.24.17:904][731]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.11.28-20.24.17:941][731]LightingResults: New page: Lighting Build - Nov 28, 2022, 10:24:17 AM
+[2022.11.28-20.24.17:957][731]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.28-20.24.17:960][731]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.28-20.24.17:960][731]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.28-20.24.17:961][731]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.28-20.24.17:961][731]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17500
+[2022.11.28-20.24.22:563][731]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.11.28-20.24.22:563][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.28-20.24.22:563][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.28-20.24.22:564][731]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.28-20.24.22:564][731]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.28-20.24.22:564][731]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.28-20.24.22:616][731]LogEditorBuildUtils: Build time 0:04
+[2022.11.28-20.24.23:032][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.28-20.24.26:110][742]LightingResults: Warning: WallDoor_Envrionment_MP Object has overlapping UVs.
+[2022.11.28-20.24.26:110][742]LightingResults: WallDoor_Envrionment_MP Lightmap UV are overlapping by 4.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.28-20.24.26:439][743]LightingResults: Warning: WallDoor_Envrionment_MP Object has overlapping UVs.
+[2022.11.28-20.24.26:439][743]LightingResults: WallDoor_Envrionment_MP Lightmap UV are overlapping by 4.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.28-20.24.28:799][750]LightingResults: Warning: Cabinet1_Object_MP Object has overlapping UVs.
+[2022.11.28-20.24.28:799][750]LightingResults: Cabinet1_Object_MP Lightmap UV are overlapping by 2.1%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.28-20.24.29:803][753]LightingResults: Warning: WallDoor_Envrionment_MP Object has overlapping UVs.
+[2022.11.28-20.24.29:803][753]LightingResults: WallDoor_Envrionment_MP Lightmap UV are overlapping by 4.4%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.28-20.24.35:840][771]Job is a success!
+[2022.11.28-20.24.36:281][772]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:          1: 26.7% covering 12.5% of volume
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:          2: 70.0% covering 0.5% of volume
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.28-20.24.36:282][772]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2022.11.28-20.24.36:906][772]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2022.11.28-20.24.36:907][772]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.28-20.24.36:907][772]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.28-20.24.36:907][772]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2022.11.28-20.24.36:907][772]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.11.28-20.24.36:907][772]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.11.28-20.24.36:907][772]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.28-20.24.36:907][772]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.28-20.24.36:942][772]Lightmass on DESKTOP-DOR6IT0: 13.3 sec total, 110 ms importing, 28 ms setup, 1.99 sec photons, 11.1 sec processing, 0 ms extra exporting [146/146 mappings]. Threads: 55.7 sec total, 23.2 sec processing.
+[2022.11.28-20.24.36:949][772]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 146 meshes in 2 LightmapResourceClusters (73.0 Meshes per cluster).
+[2022.11.28-20.24.36:964][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.28-20.24.36:979][772]LogStaticLightingSystem: Illumination: 18.7 sec (514 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.11.28-20.24.36:979][772]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.28-20.24.36:979][772]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.11.28-20.24.37:576][772]DumpUnbuiltLightIteractions
+[2022.11.28-20.24.37:576][772]Lights with unbuilt interactions: 0
+[2022.11.28-20.24.37:576][772]
+[2022.11.28-20.24.37:576][772]Primitives with unbuilt interactions: 0
+[2022.11.28-20.24.37:596][772]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.28-20.24.37:596][772]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.28-20.24.37:596][772]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.28-20.24.37:596][772]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.11.28-20.24.37:596][772]LogShaderCompilers: Display: ================================================
+[2022.11.28-20.24.37:715][772]LogTexture: Display: Building textures: NewReflectionComponentTextureC1996AAD4B26CEA34CA9B09E4945EB16 (BGRA8, 128X128)
+[2022.11.28-20.24.37:729][772]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.11.28-20.24.37:789][773]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.28-20.24.37:790][773]MapCheck: New page: FirstPersonExampleMap - Nov 28, 2022, 10:24:37 AM
+[2022.11.28-20.24.37:790][773]MapCheck: Warning: Puzzle_Object_MP_Puzzle_7 Static mesh actor has NULL StaticMesh property 
+[2022.11.28-20.24.37:790][773]MapCheck: Warning: Puzzle_MP_13 Static mesh actor has NULL StaticMesh property 
+[2022.11.28-20.24.37:791][773]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.41ms to complete.
+[2022.11.28-20.24.40:717][920]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-20.24.40:722][920]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-20.24.41:234][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tile2_Environment_MP21)
+[2022.11.28-20.24.45:378][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.11.28-20.24.45:384][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-20.24.45:385][442]PIE: New page: PIE session: FirstPersonExampleMap (Nov 28, 2022, 10:24:45 AM)
+[2022.11.28-20.24.45:385][442]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.28-20.24.45:406][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021646s)
+[2022.11.28-20.24.45:408][442]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.28-20.24.45:408][442]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2022.11.28-20.24.45:408][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023372s)
+[2022.11.28-20.24.45:421][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.28-20.24.45:423][442]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.28-20.24.45:423][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-20.24.45:423][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.28-20.24.45:423][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.28-20.24.45:423][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-20.24.45:423][442]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.28-20.24.45:431][442]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.28-20.24.45:432][442]LogAudioMixer: Display: 1: FrontRight
+[2022.11.28-20.24.45:443][442]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 7 Chat)
+[2022.11.28-20.24.45:443][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-20.24.45:443][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-20.24.45:443][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-20.24.45:444][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.28-20.24.45:444][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.28-20.24.45:444][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.28-20.24.45:445][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.28-20.24.45:445][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.28-20.24.45:445][442]LogInit: FAudioDevice initialized.
+[2022.11.28-20.24.45:445][442]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.11.28-20.24.45:483][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-20.24.45:483][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.28-20.24.45:489][442]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.28-15.24.45
+[2022.11.28-20.24.45:489][442]LogWorld: Bringing up level for play took: 0.004953
+[2022.11.28-20.24.45:489][442]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.11.28-20.24.45:494][442]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.28-20.24.45:497][442]PIE: Server logged in
+[2022.11.28-20.24.45:498][442]PIE: Play in editor total start time 0.114 seconds.
+[2022.11.28-20.24.49:924][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-20.24.49:924][951]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.28-20.24.49:925][951]LogSlate: Window 'HyadesLayoutTest Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.11.28-20.24.49:934][951]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-20.24.49:936][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-20.24.49:950][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-20.24.49:969][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-20.24.49:976][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.24.49:977][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.24.49:982][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.28-20.24.50:015][952]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.11.28-20.24.52:048][173]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2022.11.28-20.24.57:241][706]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.11.28-20.24.57:266][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-20.24.57:266][706]PIE: New page: PIE session: FirstPersonExampleMap (Nov 28, 2022, 10:24:57 AM)
+[2022.11.28-20.24.57:266][706]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.28-20.24.57:289][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023024s)
+[2022.11.28-20.24.57:290][706]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.28-20.24.57:291][706]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2022.11.28-20.24.57:291][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024276s)
+[2022.11.28-20.24.57:307][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.28-20.24.57:309][706]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.28-20.24.57:309][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.28-20.24.57:309][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-20.24.57:310][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.28-20.24.57:310][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.28-20.24.57:310][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-20.24.57:310][706]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.28-20.24.57:318][706]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.28-20.24.57:318][706]LogAudioMixer: Display: 1: FrontRight
+[2022.11.28-20.24.57:330][706]LogAudioMixer: Display: Using Audio Device Headset Earphone (Arctis 7 Chat)
+[2022.11.28-20.24.57:330][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-20.24.57:330][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-20.24.57:330][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-20.24.57:331][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.28-20.24.57:331][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.28-20.24.57:331][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.28-20.24.57:332][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.28-20.24.57:332][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.28-20.24.57:332][706]LogInit: FAudioDevice initialized.
+[2022.11.28-20.24.57:332][706]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.11.28-20.24.57:368][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-20.24.57:369][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.28-20.24.57:374][706]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.28-15.24.57
+[2022.11.28-20.24.57:375][706]LogWorld: Bringing up level for play took: 0.005490
+[2022.11.28-20.24.57:375][706]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.11.28-20.24.57:379][706]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.28-20.24.57:381][706]PIE: Server logged in
+[2022.11.28-20.24.57:383][706]PIE: Play in editor total start time 0.117 seconds.
+[2022.11.28-20.25.44:403][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-20.25.44:403][611]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.28-20.25.44:404][611]LogSlate: Window 'HyadesLayoutTest Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.11.28-20.25.44:415][611]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-20.25.44:416][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-20.25.44:436][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-20.25.44:480][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-20.25.44:487][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-20.25.44:488][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.25.44:489][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.25.44:494][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.28-20.25.44:788][612]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.11.28-20.25.45:764][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.28-20.25.45:949][646]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMap3702982440B5EA714A5CC4AD2546C8A9.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.28-20.25.46:153][646]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMap_BuiltDataCF8FAEEA4C3F92F3F01575924B1DEE31.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.11.28-20.25.46:163][646]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.28-20.25.46:163][646]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.11.28-20.25.46:163][646]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.28-20.25.55:511][810]Cmd: SELECT NONE
+[2022.11.28-20.25.56:996][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.28-20.25.57:299][976]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMapAFA121364C4CFD996F81DB9494F3D858.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.28-20.25.57:521][976]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMap_BuiltData17E3DD6C46BCED18C00B1B90B8E944B3.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.11.28-20.25.57:533][976]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.28-20.25.57:533][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.11.28-20.25.57:534][976]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.28-20.26.02:271][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabinet_Style4)
+[2022.11.28-20.26.08:637][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Goggles_Prop_MP_Goggles)
+[2022.11.28-20.26.10:918][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Goggles_Prop_MP_Goggles)
+[2022.11.28-20.26.21:348][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whiteboard_Whiteboard_Frame)
+[2022.11.28-20.26.25:186][ 88]Cmd: MODE ROTGRID=0
+[2022.11.28-20.26.33:710][ 50]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.11.28-20.26.38:128][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.28-20.26.38:329][547]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMap427D79114209D727B4FE6DA55E2751A3.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.28-20.26.38:555][547]LogSavePackage: Moving 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Saved/FirstPersonExampleMap_BuiltData0941DA8E4AB56B4F6A26D5BA3A8C0C82.tmp' to 'D:/College Classes/DAGD/Capstone/Project-Hyades-Repo/Project Hyades/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.11.28-20.26.38:567][547]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.28-20.26.38:567][547]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.11.28-20.26.38:567][547]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.28-20.26.40:982][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.28-20.26.41:133][672]LogSlate: Window 'HyadesLayoutTest - Unreal Editor' being destroyed
+[2022.11.28-20.26.41:595][673]Cmd: QUIT_EDITOR
+[2022.11.28-20.26.41:595][673]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.28-20.26.41:684][673]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.28-20.26.41:888][673]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.28-20.26.41:888][673]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.28-20.26.41:888][673]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.11.28-20.26.41:894][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.26.41:896][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-20.26.41:912][673]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.28-20.26.41:933][673]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.28-20.26.41:951][673]LogExit: Preparing to exit.
+[2022.11.28-20.26.42:875][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:985][673]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.28-20.26.43:987][673]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-20.26.44:216][673]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.28-20.26.44:741][673]LogExit: Editor shut down
+[2022.11.28-20.26.44:785][673]LogExit: Transaction tracking system shut down
